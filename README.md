@@ -1,5 +1,8 @@
 # ChatWeSIS
-Conversational AI for Social Policy Data Discovery
+Conversational AI for Social Policy Data Discovery 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![LLM](https://img.shields.io/badge/LLM-OpenAI-orange)
 
 # ChatWeSIS 🤖📊  
 *Conversational AI for Social Policy Data Discovery*
@@ -70,6 +73,3 @@ This project was developed collaboratively by a group of Master's students at th
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![LLM](https://img.shields.io/badge/LLM-OpenAI-orange)
