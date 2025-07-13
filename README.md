@@ -50,7 +50,7 @@ As the **Project Manager** and **User Research Lead**, I:
 ## 📖 Full Report
 
 You can find the complete technical and user study documentation here:  
-📄 [`docs/ChatWeSIS_Report.pdf`](./docs/ChatWeSIS_Report.pdf)
+📄 [`docs/ChatWeSIS_Report.pdf`](./docs/WelfareComp.pdf)
 
 ---
 
